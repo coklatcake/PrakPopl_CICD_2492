@@ -51,4 +51,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: najiya23/PrakPopl_CICD_2492:latest
+          tags: najiya23/PrakPopl_cicd_2492:latest
